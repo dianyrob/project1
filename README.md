@@ -1,5 +1,5 @@
 # Project TestCafe Diana Hernandez
-Workshop projec session 1 Testcafe
+Workshop projec session 1 Testcafe \n
 Steps to run:
 1.Clone this repository
 2.Go to the project's folder
